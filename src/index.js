@@ -22,8 +22,8 @@ export class OlderCoaster extends React.Component {
      ]);
    }
  };
- 
- 
+
+
  export class InFrontOfYou extends React.Component {
    render() {
      return React.createElement('div', {}, [
